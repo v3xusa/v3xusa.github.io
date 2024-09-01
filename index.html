@@ -15,6 +15,7 @@
             padding: 0;
             overflow: hidden;
             background: #000;
+            font-family: Arial, sans-serif;
         }
 
         .container {
@@ -22,14 +23,14 @@
             width: 100vw;
             height: 100vh;
             background: url('https://github.com/gurbetim/gurbetim.github.io/blob/bd76887a14c232ce2b8d21452345e097bdd8a00f/wp7232772.jpg?raw=true') no-repeat center center;
-            background-size: contain;
+            background-size: cover;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
         }
 
         .content {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
             text-align: center;
             color: white;
             z-index: 1;
@@ -37,7 +38,7 @@
 
         .message {
             margin-bottom: 20px;
-            font-family: 'Dancing Script', cursive; /* Seçilen font */
+            font-family: 'Dancing Script', cursive;
         }
 
         .message h1 {
@@ -54,6 +55,49 @@
             height: auto;
             border-radius: 50%;
             border: 5px solid black;
+        }
+
+        .gallery-container {
+            background: #000;
+            border-radius: 20px;
+            padding: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+            margin-top: 30px; /* Galeriyi biraz daha aşağıya taşır */
+            z-index: 0;
+        }
+
+        .gallery {
+            --size: 100px;
+            display: grid;
+            grid-template-columns: repeat(6, var(--size));
+            grid-auto-rows: var(--size);
+            gap: 5px;
+        }
+
+        .gallery img {
+            object-fit: cover;
+            width: calc(var(--size) * 2);
+            height: calc(var(--size) * 2);
+            clip-path: path("M90,10 C100,0 100,0 110,10 190,90 190,90 190,90 200,100 200,100 190,110 190,110 110,190 110,190 100,200 100,200 90,190 90,190 10,110 10,110 0,100 0,100 10,90Z");
+            transition: clip-path 0.25s, filter 0.75s;
+            border-radius: 5px;
+            grid-column: auto / span 2;
+        }
+
+        .gallery img:nth-child(5n - 1) {
+            grid-column: 2 / span 2;
+        }
+
+        .gallery img:hover,
+        .gallery img:focus {
+            clip-path: path("M0,0 C0,0 200,0 200,0 200,0 200,100 200,100 200,100 200,200 200,200 200,200 100,200 100,200 100,200 100,200 0,200 0,200 0,100 0,100 0,100 0,100 0,100Z");
+            z-index: 1;
+            transition: clip-path 0.25s, filter 0.25s;
+        }
+
+        .gallery img:focus {
+            outline: 1px dashed black;
+            outline-offset: -5px;
         }
 
         .heart {
@@ -75,6 +119,18 @@
                 <p>Seninle her anı daha özel yaşıyorum. Seni çok seviyorum!</p>
             </div>
             <img src="https://github.com/gurbetim/gurbetim.github.io/blob/89f7b77fb8649ef84f23af9b6a5dfb87e839cecb/gubetttttt.jpg?raw=true" alt="Sevgilim" class="photo">
+        </div>
+        <div class="gallery-container">
+            <article class="gallery">
+                <img src="https://github.com/gurbetim/gurbetim.github.io/blob/89f7b77fb8649ef84f23af9b6a5dfb87e839cecb/gubetttttt.jpg?raw=true" alt="Resim 1" />
+                <img src="https://github.com/gurbetim/gurbetim.github.io/blob/89f7b77fb8649ef84f23af9b6a5dfb87e839cecb/gubetttttt.jpg?raw=true" alt="Resim 2" />
+                <img src="https://github.com/gurbetim/gurbetim.github.io/blob/89f7b77fb8649ef84f23af9b6a5dfb87e839cecb/gubetttttt.jpg?raw=true" alt="Resim 3" />
+                <img src="https://github.com/gurbetim/gurbetim.github.io/blob/89f7b77fb8649ef84f23af9b6a5dfb87e839cecb/gubetttttt.jpg?raw=true" alt="Resim 4" />
+                <img src="https://github.com/gurbetim/gurbetim.github.io/blob/89f7b77fb8649ef84f23af9b6a5dfb87e839cecb/gubetttttt.jpg?raw=true" alt="Resim 5" />
+                <img src="https://github.com/gurbetim/gurbetim.github.io/blob/89f7b77fb8649ef84f23af9b6a5dfb87e839cecb/gubetttttt.jpg?raw=true" alt="Resim 6" />
+                <img src="https://github.com/gurbetim/gurbetim.github.io/blob/89f7b77fb8649ef84f23af9b6a5dfb87e839cecb/gubetttttt.jpg?raw=true" alt="Resim 7" />
+                <img src="https://github.com/gurbetim/gurbetim.github.io/blob/89f7b77fb8649ef84f23af9b6a5dfb87e839cecb/gubetttttt.jpg?raw=true" alt="Resim 8" />
+            </article>
         </div>
     </div>
 <script>
@@ -111,15 +167,15 @@ function mwah() { if (document.getElementById) {
   for (i=0; i<hearts; i++) {
     heart=createDiv("auto", "auto");
     heart.style.visibility="hidden";
-	heart.style.zIndex=(over_or_under=="over")?"1001":"0";
+    heart.style.zIndex=(over_or_under=="over")?"1001":"0";
     heart.style.color=colours[i%colours.length];
-	heart.style.pointerEvents="none";
+    heart.style.pointerEvents="none";
     if (navigator.appName=="Microsoft Internet Explorer") heart.style.filter="alpha(opacity=75)";
     else heart.style.opacity=0.45;
     heart.appendChild(document.createTextNode(String.fromCharCode(9829)));
     document.body.appendChild(heart);
     herz[i]=heart;
-	herzy[i]=false;
+    herzy[i]=false;
   }
   set_scroll();
   set_width();
@@ -132,11 +188,11 @@ function herzle() {
     ox=x;
     oy=y;
     for (c=0; c<hearts; c++) if (herzy[c]===false) {
-	  herz[c].firstChild.nodeValue=String.fromCharCode(9829);
+      herz[c].firstChild.nodeValue=String.fromCharCode(9829);
       herz[c].style.left=(herzx[c]=x-minisize/2)+"px";
       herz[c].style.top=(herzy[c]=y-minisize)+"px";
       herz[c].style.fontSize=minisize+"px";
-	  herz[c].style.fontWeight='normal';
+      herz[c].style.fontWeight='normal';
       herz[c].style.visibility='visible';
       herzs[c]=minisize;
       break;
@@ -174,7 +230,7 @@ function break_my_heart(i) {
   var t;
   herz[i].firstChild.nodeValue=String.fromCharCode(9676);
   herz[i].style.fontWeight='bold';
-    herzy[i]=false;
+  herzy[i]=false;
   for (t=herzs[i]; t<=maxisize; t++) setTimeout('herz['+i+'].style.fontSize="'+t+'px"', 60*(t-herzs[i]));
   setTimeout('herz['+i+'].style.visibility="hidden";', 60*(t-herzs[i]));
 }
