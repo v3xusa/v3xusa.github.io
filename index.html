@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -62,12 +63,14 @@
             border-radius: 20px;
             padding: 10px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
-            margin-top: 30px; /* Galeriyi biraz daha aşağıya taşır */
+            margin-top: 40px; /* Galeriyi biraz daha aşağıya taşır */
             z-index: 0;
+            height: 425px; /* Arka plan alanının yüksekliğini artırdım */
+            overflow: hidden; /* Taşan içeriği gizler */
         }
 
         .gallery {
-            --size: 100px;
+            --size: 101px;
             display: grid;
             grid-template-columns: repeat(6, var(--size));
             grid-auto-rows: var(--size);
@@ -118,7 +121,6 @@
                 <h1>Seninle her şey daha güzel</h1>
                 <p>Seninle her anı daha özel yaşıyorum. Seni çok seviyorum!</p>
             </div>
-            <img src="https://github.com/gurbetim/gurbetim.github.io/blob/89f7b77fb8649ef84f23af9b6a5dfb87e839cecb/gubetttttt.jpg?raw=true" alt="Sevgilim" class="photo">
         </div>
         <div class="gallery-container">
             <article class="gallery">
