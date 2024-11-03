@@ -1,0 +1,1325 @@
+TCKN: 38734279430
+Adı: MERTCAN
+Soyadı: KARACA
+Cinsiyeti: Bilgi Yok
+Doğum Tarihi: 1997-02-13
+Ölüm Tarihi: YOK
+Doğum Yeri: ÇANKAYA
+Medeni Hal: Bekâr
+Anne Adı: PAKİZE
+Anne TCKN: 38743279148
+Baba Adı: ZİYA
+Baba TCKN: 38803277176
+Adres İl: ANKARA
+Adres İlçe: KEÇİÖREN
+Memleket İl: Erzurum
+Memleket İlçe: Karayazı
+Aile Sıra No: 13
+Birey Sıra No: 50
+2023 Adres: KAFKAS MAH. KAFKAS CAD. SAFİR-2 APT. 12 B 20 KEÇİÖREN/ANKARA
+2015 Adres: KAFKAS MAH. KURBAN CADDESİ 47 7 KEÇİÖREN/ANKARA
+Vergi No: 5050793181
+GSM NO: [['5453639115']]
+
+======================================================================================================
+
+Yakınlık: Kendisi
+TCKN: 12820194838
+Adı: KENAN
+Soyadı: ÖZKAN
+Doğum Tarihi: 22.8.1970
+Anne Adı: NAHİDE
+Anne TCKN: 12823194774
+Baba Adı: MUSTAFA
+Baba TCKN: 12826194610
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Annesi
+TCKN: 12823194774
+Adı: NAHİDE
+Soyadı: ÖZKAN
+Doğum Tarihi: 16.12.1949
+Anne Adı: ZARİFE
+Anne TCKN: 20779879638
+Baba Adı: KEMAL
+Baba TCKN: 20800878968
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: None
+--------------------------------------
+Yakınlık: Anneannesi
+TCKN: 20779879638
+Adı: ZARİFE
+Soyadı: HİKMET
+Doğum Tarihi: 1.6.1931
+Anne Adı: CEMAL
+Anne TCKN: None
+Baba Adı: AHMET
+Baba TCKN: None
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Dayısı/Teyzesi
+TCKN: 20731881280
+Adı: SAİM
+Soyadı: HİKMET
+Doğum Tarihi: 5.5.1976
+Anne Adı: ZARİFE
+Anne TCKN: 20779879638
+Baba Adı: KEMAL
+Baba TCKN: 20800878968
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 11143246316
+Adı: FERHAT
+Soyadı: HİKMET
+Doğum Tarihi: 20.4.2000
+Anne Adı: MUAZZEZ
+Anne TCKN: 20668883326
+Baba Adı: SAİM
+Baba TCKN: 20731881280
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 16039084966
+Adı: BERAT
+Soyadı: HİKMET
+Doğum Tarihi: 3.6.2009
+Anne Adı: MUAZZEZ
+Anne TCKN: 20668883326
+Baba Adı: SAİM
+Baba TCKN: 20731881280
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 11920221604
+Adı: SERHAT
+Soyadı: HİKMET
+Doğum Tarihi: 8.11.2005
+Anne Adı: MUAZZEZ
+Anne TCKN: 20668883326
+Baba Adı: SAİM
+Baba TCKN: 20731881280
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Dayısı/Teyzesi
+TCKN: 31555533088
+Adı: SALİHE
+Soyadı: KAYA
+Doğum Tarihi: 11.4.1977
+Anne Adı: ZARİFE
+Anne TCKN: 20779879638
+Baba Adı: KEMAL
+Baba TCKN: 20800878968
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 13430138496
+Adı: HASRET
+Soyadı: KAYA
+Doğum Tarihi: 23.9.2011
+Anne Adı: SALİHE
+Anne TCKN: 31555533088
+Baba Adı: HİKMET
+Baba TCKN: 31810524554
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 47359006802
+Adı: CENGİZHAN
+Soyadı: KAYA
+Doğum Tarihi: 18.7.1994
+Anne Adı: SALİHE
+Anne TCKN: 31555533088
+Baba Adı: HİKMET
+Baba TCKN: 31810524554
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 47362006738
+Adı: OĞUZHAN
+Soyadı: KAYA
+Doğum Tarihi: 20.7.1993
+Anne Adı: SALİHE
+Anne TCKN: 31555533088
+Baba Adı: HİKMET
+Baba TCKN: 31810524554
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 47356006966
+Adı: ZELİHA
+Soyadı: KAYA
+Doğum Tarihi: 3.11.1999
+Anne Adı: SALİHE
+Anne TCKN: 31555533088
+Baba Adı: HİKMET
+Baba TCKN: 31810524554
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Dayısı/Teyzesi
+TCKN: 42139167766
+Adı: SEVİM
+Soyadı: KIRMACİ
+Doğum Tarihi: 2.5.1968
+Anne Adı: ZARİFE
+Anne TCKN: 20779879638
+Baba Adı: KEMAL
+Baba TCKN: 20800878968
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 42100169058
+Adı: EROL
+Soyadı: KIRMACİ
+Doğum Tarihi: 3.3.1989
+Anne Adı: SEVİM
+Anne TCKN: 42139167766
+Baba Adı: MEHMET
+Baba TCKN: 42142167692
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 42094169218
+Adı: GÜVEN
+Soyadı: KIRMACİ
+Doğum Tarihi: 7.7.1994
+Anne Adı: SEVİM
+Anne TCKN: 42139167766
+Baba Adı: MEHMET
+Baba TCKN: 42142167692
+Nüfus İl: ERZURUM
+Nüfus İlçe: PALANDÖKEN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 11150201438
+Adı: CANER
+Soyadı: KIRMACİ
+Doğum Tarihi: 30.11.2007
+Anne Adı: SEVİM
+Anne TCKN: 42139167766
+Baba Adı: MEHMET
+Baba TCKN: 42142167692
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 42088169446
+Adı: UĞUR
+Soyadı: KIRMACİ
+Doğum Tarihi: 5.5.1996
+Anne Adı: SEVİM
+Anne TCKN: 42139167766
+Baba Adı: MEHMET
+Baba TCKN: 42142167692
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 26632684692
+Adı: SEVDA
+Soyadı: KAYA
+Doğum Tarihi: 1.11.2002
+Anne Adı: SEVİM
+Anne TCKN: 42139167766
+Baba Adı: MEHMET
+Baba TCKN: 42142167692
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 42097169154
+Adı: SEVGİ
+Soyadı: GÖLOĞLU
+Doğum Tarihi: 5.6.1993
+Anne Adı: SEVİM
+Anne TCKN: 42139167766
+Baba Adı: MEHMET
+Baba TCKN: 42142167692
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 11153200698
+Adı: SELENAY
+Soyadı: KIRMACİ
+Doğum Tarihi: 30.11.2007
+Anne Adı: SEVİM
+Anne TCKN: 42139167766
+Baba Adı: MEHMET
+Baba TCKN: 42142167692
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 42091169372
+Adı: ŞAHİN
+Soyadı: KIRMACİ
+Doğum Tarihi: 10.4.1995
+Anne Adı: SEVİM
+Anne TCKN: 42139167766
+Baba Adı: MEHMET
+Baba TCKN: 42142167692
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 26635684538
+Adı: ŞEVKET
+Soyadı: KIRMACİ
+Doğum Tarihi: 1.11.2002
+Anne Adı: SEVİM
+Anne TCKN: 42139167766
+Baba Adı: MEHMET
+Baba TCKN: 42142167692
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 41998172416
+Adı: SÜLEYMAN
+Soyadı: KIRMACİ
+Doğum Tarihi: 5.7.1998
+Anne Adı: SEVİM
+Anne TCKN: 42139167766
+Baba Adı: MEHMET
+Baba TCKN: 42142167692
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Dayısı/Teyzesi
+TCKN: 20728881354
+Adı: SEBİHE
+Soyadı: YAZICI
+Doğum Tarihi: 11.11.1978
+Anne Adı: ZARİFE
+Anne TCKN: 20779879638
+Baba Adı: KEMAL
+Baba TCKN: 20800878968
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 22294829266
+Adı: AYDIN
+Soyadı: YAZICI
+Doğum Tarihi: 18.10.1999
+Anne Adı: SEBİHE
+Anne TCKN: 20728881354
+Baba Adı: AYHAN
+Baba TCKN: 44452090356
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 22291829320
+Adı: İSLAM
+Soyadı: YAZICI
+Doğum Tarihi: 23.9.2002
+Anne Adı: SEBİHE
+Anne TCKN: 20728881354
+Baba Adı: AYHAN
+Baba TCKN: 44452090356
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 10727229202
+Adı: AHMET
+Soyadı: YAZICI
+Doğum Tarihi: 15.6.2004
+Anne Adı: SEBİHE
+Anne TCKN: 20728881354
+Baba Adı: AYHAN
+Baba TCKN: 44452090356
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 22297829102
+Adı: AYŞE
+Soyadı: YAZICI
+Doğum Tarihi: 10.9.1998
+Anne Adı: SEBİHE
+Anne TCKN: 20728881354
+Baba Adı: AYHAN
+Baba TCKN: 44452090356
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 25072749916
+Adı: MUSTAFA HAMZA
+Soyadı: YAZICI
+Doğum Tarihi: 22.9.2010
+Anne Adı: SEBİHE
+Anne TCKN: 20728881354
+Baba Adı: AYHAN
+Baba TCKN: 44452090356
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Dayısı/Teyzesi
+TCKN: 20752880552
+Adı: ÖMER
+Soyadı: HİKMET
+Doğum Tarihi: 1.6.1973
+Anne Adı: ZARİFE
+Anne TCKN: 20779879638
+Baba Adı: KEMAL
+Baba TCKN: 20800878968
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: None
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 20695882460
+Adı: EBRU
+Soyadı: ACI
+Doğum Tarihi: 22.8.1994
+Anne Adı: ÇİÇEK
+Anne TCKN: 20710881928
+Baba Adı: ÖMER
+Baba TCKN: 20752880552
+Nüfus İl: ERZURUM
+Nüfus İlçe: PASİNLER
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 20704882146
+Adı: YILMAZ
+Soyadı: HİKMET
+Doğum Tarihi: 1.1.1993
+Anne Adı: ÇİÇEK
+Anne TCKN: 20710881928
+Baba Adı: ÖMER
+Baba TCKN: 20752880552
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 20674883198
+Adı: ALİ
+Soyadı: HİKMET
+Doğum Tarihi: 4.12.1998
+Anne Adı: ÇİÇEK
+Anne TCKN: 20710881928
+Baba Adı: ÖMER
+Baba TCKN: 20752880552
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Anne)
+TCKN: 20689882698
+Adı: MUHAMMED
+Soyadı: HİKMET
+Doğum Tarihi: 10.11.1996
+Anne Adı: ÇİÇEK
+Anne TCKN: 20710881928
+Baba Adı: ÖMER
+Baba TCKN: 20752880552
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Babası
+TCKN: 12826194610
+Adı: MUSTAFA
+Soyadı: ÖZKAN
+Doğum Tarihi: 2.6.1953
+Anne Adı: HAZAL
+Anne TCKN: 12853193754
+Baba Adı: MEVLÜT
+Baba TCKN: 12856193690
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: None
+--------------------------------------
+Yakınlık: Babaannesi
+TCKN: 20779879638
+Adı: ZARİFE
+Soyadı: HİKMET
+Doğum Tarihi: 1.6.1931
+Anne Adı: CEMAL
+Anne TCKN: None
+Baba Adı: AHMET
+Baba TCKN: None
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Amcası/Halası
+TCKN: 12802195402
+Adı: GANİ
+Soyadı: ÖZKAN
+Doğum Tarihi: 5.7.1955
+Anne Adı: HAZAL
+Anne TCKN: 12853193754
+Baba Adı: MEVLÜT
+Baba TCKN: 12856193690
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 12781196162
+Adı: ERKAN
+Soyadı: ÖZKAN
+Doğum Tarihi: 28.8.1986
+Anne Adı: ZEYNEP
+Anne TCKN: 12799195508
+Baba Adı: GANİ
+Baba TCKN: 12802195402
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 20668883326
+Adı: MUAZZEZ
+Soyadı: HİKMET
+Doğum Tarihi: 12.6.1978
+Anne Adı: ZEYNEP
+Anne TCKN: 12799195508
+Baba Adı: GANİ
+Baba TCKN: 12802195402
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 12790195880
+Adı: KEZBAN
+Soyadı: UZUN
+Doğum Tarihi: 10.10.1980
+Anne Adı: ZEYNEP
+Anne TCKN: 12799195508
+Baba Adı: GANİ
+Baba TCKN: 12802195402
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 12787195954
+Adı: SONGÜL
+Soyadı: DEYERLİ
+Doğum Tarihi: 1.12.1982
+Anne Adı: ZEYNEP
+Anne TCKN: 12799195508
+Baba Adı: GANİ
+Baba TCKN: 12802195402
+Nüfus İl: ANKARA
+Nüfus İlçe: POLATLI
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 12784196008
+Adı: SERKAN
+Soyadı: ÖZKAN
+Doğum Tarihi: 2.2.1985
+Anne Adı: ZEYNEP
+Anne TCKN: 12799195508
+Baba Adı: GANİ
+Baba TCKN: 12802195402
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 18574037230
+Adı: ZÜBEYDE
+Soyadı: DEYERLİ
+Doğum Tarihi: 1.10.1975
+Anne Adı: ZEYNEP
+Anne TCKN: 12799195508
+Baba Adı: GANİ
+Baba TCKN: 12802195402
+Nüfus İl: ANKARA
+Nüfus İlçe: POLATLI
+Uyruk: TR
+--------------------------------------
+Yakınlık: Amcası/Halası
+TCKN: 40180232662
+Adı: FAZİLE
+Soyadı: ÖZKAN
+Doğum Tarihi: 14.1.1939
+Anne Adı: HAZAL
+Anne TCKN: 12853193754
+Baba Adı: AHMET
+Baba TCKN: 40414224876
+Nüfus İl: İSTANBUL
+Nüfus İlçe: EYÜPSULTAN
+Uyruk: None
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 25570718094
+Adı: GÜLPERİ
+Soyadı: AKDAĞ
+Doğum Tarihi: 10.3.1963
+Anne Adı: FAZİLE
+Anne TCKN: 40180232662
+Baba Adı: HAKKİ
+Baba TCKN: 40195232152
+Nüfus İl: BURSA
+Nüfus İlçe: YILDIRIM
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 40087235728
+Adı: HERDEM
+Soyadı: BOSTANCİ
+Doğum Tarihi: 10.7.1981
+Anne Adı: FAZİLE
+Anne TCKN: 40180232662
+Baba Adı: HAKKI
+Baba TCKN: 40195232152
+Nüfus İl: İSTANBUL
+Nüfus İlçe: ESENYURT
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 40165233172
+Adı: CEMALETTİN
+Soyadı: ÖZKAN
+Doğum Tarihi: 25.3.1962
+Anne Adı: FAZİLE
+Anne TCKN: 40180232662
+Baba Adı: HAKKI
+Baba TCKN: 40195232152
+Nüfus İl: ERZURUM
+Nüfus İlçe: KÖPRÜKÖY
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 40114234830
+Adı: CAHİT
+Soyadı: ÖZKAN
+Doğum Tarihi: 8.4.1979
+Anne Adı: FAZİLE
+Anne TCKN: 40180232662
+Baba Adı: HAKKI
+Baba TCKN: 40195232152
+Nüfus İl: İSTANBUL
+Nüfus İlçe: EYÜPSULTAN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 35056403444
+Adı: ADALET
+Soyadı: ÖZKAN
+Doğum Tarihi: 3.4.1972
+Anne Adı: FAZİLE
+Anne TCKN: 40180232662
+Baba Adı: HAKKI
+Baba TCKN: 40195232152
+Nüfus İl: İSTANBUL
+Nüfus İlçe: EYÜPSULTAN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 40153233528
+Adı: CEVDET
+Soyadı: ÖZKAN
+Doğum Tarihi: 1.1.1966
+Anne Adı: FAZİLE
+Anne TCKN: 40180232662
+Baba Adı: HAKKI
+Baba TCKN: 40195232152
+Nüfus İl: İSTANBUL
+Nüfus İlçe: EYÜPSULTAN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 40117234776
+Adı: NECAT
+Soyadı: ÖZKAN
+Doğum Tarihi: 10.1.1977
+Anne Adı: FAZİLE
+Anne TCKN: 40180232662
+Baba Adı: HAKKI
+Baba TCKN: 40195232152
+Nüfus İl: İSTANBUL
+Nüfus İlçe: EYÜPSULTAN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 40078236000
+Adı: MEDİNE
+Soyadı: KÖMÜRCÜ
+Doğum Tarihi: 15.4.1985
+Anne Adı: FAZİLE
+Anne TCKN: 40180232662
+Baba Adı: HAKKI
+Baba TCKN: 40195232152
+Nüfus İl: İZMİR
+Nüfus İlçe: BORNOVA
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 12838194264
+Adı: NURİYE
+Soyadı: ÖZKAN
+Doğum Tarihi: 22.4.1974
+Anne Adı: FAZİLE
+Anne TCKN: 40180232662
+Baba Adı: HAKKI
+Baba TCKN: 40195232152
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 35734380890
+Adı: LEYLA
+Soyadı: ÖZKAN
+Doğum Tarihi: 12.6.1980
+Anne Adı: FAZİLE
+Anne TCKN: 40180232662
+Baba Adı: HAKKI
+Baba TCKN: 40195232152
+Nüfus İl: İSTANBUL
+Nüfus İlçe: EYÜPSULTAN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 45865061926
+Adı: SUNA
+Soyadı: TAŞ
+Doğum Tarihi: 1.1.1966
+Anne Adı: FAZİLE
+Anne TCKN: 40180232662
+Baba Adı: HAKKI
+Baba TCKN: 40195232152
+Nüfus İl: None
+Nüfus İlçe: None
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 26494689064
+Adı: SEMRA
+Soyadı: AĞIRBAŞ
+Doğum Tarihi: 20.3.1971
+Anne Adı: FAZİLE
+Anne TCKN: 40180232662
+Baba Adı: HAKKI
+Baba TCKN: 40195232152
+Nüfus İl: KIRIKKALE
+Nüfus İlçe: MERKEZ
+Uyruk: TR
+--------------------------------------
+Yakınlık: Amcası/Halası
+TCKN: 40381225982
+Adı: MUZAFFER
+Soyadı: ÖZKAN
+Doğum Tarihi: 15.3.1947
+Anne Adı: GÜLEFER
+Anne TCKN: 40399225318
+Baba Adı: MEVLÜT
+Baba TCKN: 12856193690
+Nüfus İl: None
+Nüfus İlçe: None
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 12844194036
+Adı: FATİH
+Soyadı: ÖZKAN
+Doğum Tarihi: 15.9.1973
+Anne Adı: NAZİRE
+Anne TCKN: 12847193982
+Baba Adı: MUZAFFER
+Baba TCKN: 40381225982
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Amcası/Halası
+TCKN: 40396225472
+Adı: MEHMET
+Soyadı: ÖZKAN
+Doğum Tarihi: 25.1.1945
+Anne Adı: GÜLEFER
+Anne TCKN: 40399225318
+Baba Adı: MEVLÜT
+Baba TCKN: 12856193690
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: None
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 31252524914
+Adı: MEDİNE
+Soyadı: ŞAHİN
+Doğum Tarihi: 15.8.1972
+Anne Adı: DİLBER
+Anne TCKN: 40357226784
+Baba Adı: MEHMET
+Baba TCKN: 40396225472
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 40240230690
+Adı: MELİKE
+Soyadı: YAMAN
+Doğum Tarihi: 1.8.1978
+Anne Adı: DİLBER
+Anne TCKN: 40357226784
+Baba Adı: MEHMET
+Baba TCKN: 40396225472
+Nüfus İl: İSTANBUL
+Nüfus İlçe: KAĞITHANE
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 40354226848
+Adı: REMZİ
+Soyadı: ÖZKAN
+Doğum Tarihi: 2.1.1966
+Anne Adı: DİLBER
+Anne TCKN: 40357226784
+Baba Adı: MEHMET
+Baba TCKN: 40396225472
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 40351226902
+Adı: REŞAT
+Soyadı: ÖZKAN
+Doğum Tarihi: 3.6.1969
+Anne Adı: DİLBER
+Anne TCKN: 40357226784
+Baba Adı: MEHMET
+Baba TCKN: 40396225472
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 40336227412
+Adı: MURAT
+Soyadı: ÖZKAN
+Doğum Tarihi: 4.10.1974
+Anne Adı: DİLBER
+Anne TCKN: 40357226784
+Baba Adı: MEHMET
+Baba TCKN: 40396225472
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 36958737132
+Adı: ŞAKİFE
+Soyadı: AKÇAY
+Doğum Tarihi: 1.1.1964
+Anne Adı: DİLBER
+Anne TCKN: 40357226784
+Baba Adı: MEHMET
+Baba TCKN: 40396225472
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: TR
+--------------------------------------
+Yakınlık: Amcası/Halası
+TCKN: 12850193818
+Adı: ÖMER
+Soyadı: ÖZKAN
+Doğum Tarihi: 20.10.1957
+Anne Adı: HAZAL
+Anne TCKN: 12853193754
+Baba Adı: MEVLÜT
+Baba TCKN: 12856193690
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: None
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 12793195726
+Adı: ARZU
+Soyadı: ÖZKAN
+Doğum Tarihi: 21.8.1979
+Anne Adı: NAZİRE
+Anne TCKN: 12847193982
+Baba Adı: ÖMER
+Baba TCKN: 12850193818
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 12832194482
+Adı: EMRAH
+Soyadı: ÖZKAN
+Doğum Tarihi: 15.3.1986
+Anne Adı: NAZİRE
+Anne TCKN: 12847193982
+Baba Adı: ÖMER
+Baba TCKN: 12850193818
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 12796195662
+Adı: RAMAZAN
+Soyadı: ÖZKAN
+Doğum Tarihi: 9.5.1977
+Anne Adı: NAZİRE
+Anne TCKN: 12847193982
+Baba Adı: ÖMER
+Baba TCKN: 12850193818
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: None
+--------------------------------------
+Yakınlık: Amcası/Halası
+TCKN: 35089402360
+Adı: ŞEYESTE
+Soyadı: ÖZKAN
+Doğum Tarihi: 26.1.1945
+Anne Adı: GÜLEFER
+Anne TCKN: 40399225318
+Baba Adı: MEVLÜT
+Baba TCKN: 12856193690
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 35083402588
+Adı: EŞRAF
+Soyadı: ÖZKAN
+Doğum Tarihi: 15.6.1972
+Anne Adı: ŞEYESTE
+Anne TCKN: 35089402360
+Baba Adı: AZAMETTİN
+Baba TCKN: 35113401536
+Nüfus İl: İSTANBUL
+Nüfus İlçe: EYÜPSULTAN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 15908041772
+Adı: ARZU
+Soyadı: AKSAKAL
+Doğum Tarihi: 1.7.1974
+Anne Adı: ŞEYESTE
+Anne TCKN: 35089402360
+Baba Adı: AZAMETTİN
+Baba TCKN: 35113401536
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BAYRAMPAŞA
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 35080402642
+Adı: EKREM
+Soyadı: ÖZKAN
+Doğum Tarihi: 10.5.1976
+Anne Adı: ŞEYESTE
+Anne TCKN: 35089402360
+Baba Adı: AZAMETTİN
+Baba TCKN: 35113401536
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 40408238278
+Adı: YILDIZ
+Soyadı: ÖZKAN
+Doğum Tarihi: 7.10.1971
+Anne Adı: ŞEYESTE
+Anne TCKN: 35089402360
+Baba Adı: AZAMETTİN
+Baba TCKN: 35113401536
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kuzeni (Baba)
+TCKN: 35077402716
+Adı: RAMAZAN
+Soyadı: ÖZKAN
+Doğum Tarihi: 12.8.1978
+Anne Adı: ŞEYESTE
+Anne TCKN: 35089402360
+Baba Adı: AZAMETTİN
+Baba TCKN: 35113401536
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: None
+--------------------------------------
+Yakınlık: Kardeşi
+TCKN: 12811195110
+Adı: GÜLFER
+Soyadı: DALLI
+Doğum Tarihi: 17.7.1980
+Anne Adı: NAHİDE
+Anne TCKN: 12823194774
+Baba Adı: MUSTAFA
+Baba TCKN: 12826194610
+Nüfus İl: ANKARA
+Nüfus İlçe: MAMAK
+Uyruk: TR
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 33401451034
+Adı: EYÜP FATİH
+Soyadı: DALLI
+Doğum Tarihi: 1.9.2015
+Anne Adı: GÜLFER
+Anne TCKN: 12811195110
+Baba Adı: KADİR
+Baba TCKN: 43288129018
+Nüfus İl: ANKARA
+Nüfus İlçe: MAMAK
+Uyruk: TR
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 38600130056
+Adı: BEYZANUR
+Soyadı: DALLI
+Doğum Tarihi: 2.6.2009
+Anne Adı: GÜLFER
+Anne TCKN: 12811195110
+Baba Adı: KADİR
+Baba TCKN: 43288129018
+Nüfus İl: ANKARA
+Nüfus İlçe: MAMAK
+Uyruk: TR
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 17839049742
+Adı: RANA BETÜL
+Soyadı: DALLI
+Doğum Tarihi: 27.9.2011
+Anne Adı: GÜLFER
+Anne TCKN: 12811195110
+Baba Adı: KADİR
+Baba TCKN: 43288129018
+Nüfus İl: ANKARA
+Nüfus İlçe: MAMAK
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kardeşi
+TCKN: 12805195348
+Adı: BURHAN
+Soyadı: ÖZKAN
+Doğum Tarihi: 26.11.1987
+Anne Adı: NAHİDE
+Anne TCKN: 12823194774
+Baba Adı: MUSTAFA
+Baba TCKN: 12826194610
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 39083252990
+Adı: MUSTAFA TAHA
+Soyadı: ÖZKAN
+Doğum Tarihi: 22.5.2013
+Anne Adı: AYŞENUR
+Anne TCKN: 37171005138
+Baba Adı: BURHAN
+Baba TCKN: 12805195348
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: None
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 56881657208
+Adı: ZEYNEP ELİF
+Soyadı: ÖZKAN
+Doğum Tarihi: 6.1.2011
+Anne Adı: AYŞENUR
+Anne TCKN: 37171005138
+Baba Adı: BURHAN
+Baba TCKN: 12805195348
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: None
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 48100968950
+Adı: FATIMA ZEHRA
+Soyadı: ÖZKAN
+Doğum Tarihi: 16.6.2020
+Anne Adı: AYŞENUR
+Anne TCKN: 37171005138
+Baba Adı: BURHAN
+Baba TCKN: 12805195348
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kardeşi
+TCKN: 12817194902
+Adı: EDNAN
+Soyadı: ÖZKAN
+Doğum Tarihi: 7.9.1973
+Anne Adı: NAHİDE
+Anne TCKN: 12823194774
+Baba Adı: MUSTAFA
+Baba TCKN: 12826194610
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 12949188664
+Adı: ESRA
+Soyadı: ÖZKAN
+Doğum Tarihi: 26.5.2002
+Anne Adı: ÇİĞDEM
+Anne TCKN: 40051236966
+Baba Adı: EDNAN
+Baba TCKN: 12817194902
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 30224555062
+Adı: MİRAÇ
+Soyadı: ÖZKAN
+Doğum Tarihi: 1.9.2015
+Anne Adı: ÇİĞDEM
+Anne TCKN: 40051236966
+Baba Adı: EDNAN
+Baba TCKN: 12817194902
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 17401039522
+Adı: MUHAMMED HÜSEYİN
+Soyadı: ÖZKAN
+Doğum Tarihi: 1.12.2008
+Anne Adı: ÇİĞDEM
+Anne TCKN: 40051236966
+Baba Adı: EDNAN
+Baba TCKN: 12817194902
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: None
+--------------------------------------
+Yakınlık: Kardeşi
+TCKN: 12808195284
+Adı: ORHAN
+Soyadı: ÖZKAN
+Doğum Tarihi: 20.10.1982
+Anne Adı: NAHİDE
+Anne TCKN: 12823194774
+Baba Adı: MUSTAFA
+Baba TCKN: 12826194610
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 71479179948
+Adı: KEREM
+Soyadı: ÖZKAN
+Doğum Tarihi: 11.5.2016
+Anne Adı: DUYGU
+Anne TCKN: 11914038928
+Baba Adı: ORHAN
+Baba TCKN: 12808195284
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 17255982234
+Adı: CEREN
+Soyadı: ÖZKAN
+Doğum Tarihi: 3.10.2013
+Anne Adı: DUYGU
+Anne TCKN: 11914038928
+Baba Adı: ORHAN
+Baba TCKN: 12808195284
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Kardeşi
+TCKN: 12814195056
+Adı: İZZET
+Soyadı: ÖZKAN
+Doğum Tarihi: 15.5.1978
+Anne Adı: NAHİDE
+Anne TCKN: 12823194774
+Baba Adı: MUSTAFA
+Baba TCKN: 12826194610
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: TR
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 21866145148
+Adı: RABİA
+Soyadı: ÖZKAN
+Doğum Tarihi: 6.7.2017
+Anne Adı: İZZET
+Anne TCKN: 12814195056
+Baba Adı: MURAT
+Baba TCKN: 40336227412
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: TR
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 52903107850
+Adı: TUĞBA NUR
+Soyadı: ÖZKAN
+Doğum Tarihi: 1.3.2014
+Anne Adı: İZZET
+Anne TCKN: 12814195056
+Baba Adı: MURAT
+Baba TCKN: 40336227412
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: TR
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 18719248538
+Adı: YUSUF ENES
+Soyadı: ÖZKAN
+Doğum Tarihi: 13.7.2020
+Anne Adı: İZZET
+Anne TCKN: 12814195056
+Baba Adı: MURAT
+Baba TCKN: 40336227412
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: None
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 24623052420
+Adı: YUSUF SAMET
+Soyadı: ÖZKAN
+Doğum Tarihi: 3.5.2013
+Anne Adı: İZZET
+Anne TCKN: 12814195056
+Baba Adı: MURAT
+Baba TCKN: 40336227412
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: None
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 11048505600
+Adı: ZEYNEP
+Soyadı: ÖZKAN
+Doğum Tarihi: 7.9.2003
+Anne Adı: İZZET
+Anne TCKN: 12814195056
+Baba Adı: MURAT
+Baba TCKN: 40336227412
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: None
+--------------------------------------
+Yakınlık: Yeğeni
+TCKN: 11048505532
+Adı: MUHAMMET
+Soyadı: ÖZKAN
+Doğum Tarihi: 25.12.2001
+Anne Adı: İZZET
+Anne TCKN: 12814195056
+Baba Adı: MURAT
+Baba TCKN: 40336227412
+Nüfus İl: İSTANBUL
+Nüfus İlçe: BEYOĞLU
+Uyruk: None
+--------------------------------------
+Yakınlık: Çocuğu
+TCKN: 12364206172
+Adı: BİLAL
+Soyadı: ÖZKAN
+Doğum Tarihi: 22.4.2001
+Anne Adı: ZEKİYE
+Anne TCKN: 38797277336
+Baba Adı: KENAN
+Baba TCKN: 12820194838
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Çocuğu
+TCKN: 14758126868
+Adı: EMİRHAN
+Soyadı: ÖZKAN
+Doğum Tarihi: 23.11.2007
+Anne Adı: ZEKİYE
+Anne TCKN: 38797277336
+Baba Adı: KENAN
+Baba TCKN: 12820194838
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
+Yakınlık: Çocuğu
+TCKN: 10921256578
+Adı: MERVE
+Soyadı: ÖZKAN
+Doğum Tarihi: 27.8.1999
+Anne Adı: ZEKİYE
+Anne TCKN: 38797277336
+Baba Adı: KENAN
+Baba TCKN: 12820194838
+Nüfus İl: ANKARA
+Nüfus İlçe: KEÇİÖREN
+Uyruk: TR
+--------------------------------------
