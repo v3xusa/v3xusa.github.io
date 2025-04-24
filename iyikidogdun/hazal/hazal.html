@@ -109,9 +109,12 @@
     </div>
   </div>
 
-  <audio autoplay loop>
-    <source src="./iyikidogdun.mp3" type="audio/mpeg">
-  </audio>
+<audio id="hazal" src="iyikidogdun.mp3" autoplay></audio>
+<script>
+  setTimeout(function() {
+    document.getElementById("hazal").play();
+  }, 1000);
+</script>
 
   <script>
     const rainContainer = document.getElementById('rain');
